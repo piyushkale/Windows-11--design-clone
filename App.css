@@ -1,0 +1,10 @@
+body{
+  background-image: url('./icons/windows.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+*::selection{
+  all: unset;
+  background:none;
+}
